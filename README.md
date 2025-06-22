@@ -1,4 +1,5 @@
-PG HUNT is designed to simplify this process by providing a seamless, user-friendly platform that connects individuals seeking PG accommodations with landlords offering rooms.<br>
+PG HUNT is designed to simplify this process by providing a seamless, user-friendly platform that connects individuals seeking PG accommodations with landlords offering rooms.
+<br>
 There are screenshots of PG-HUNT UI:-
 
 ![Image](https://github.com/user-attachments/assets/fa741dec-3def-4edc-a9f1-ac91c936a2a0)
